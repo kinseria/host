@@ -49,3 +49,35 @@ body{ background-color:#202020;}
   cursor: pointer;
   font-family: 'Righteous', cursive;
 }
+
+
+@media only screen and (min-width : 100px) and (max-width : 780px)
+{
+  {}
+  .bar
+  {
+    width: 85%;
+    margin: 0 auto;
+  }
+}
+
+@media only screen and (min-width : 100px) and (max-width : 780px)
+{
+  {}
+  .searchbar
+  {
+    width: 78%;
+    margin: 0 auto;
+    border-radius: 20px;
+    
+  }
+}
+
+@media only screen and (min-width : 100px) and (max-width : 780px)
+{
+  {}
+  .zee5
+  {
+    margin: 0 auto;
+  }
+}
