@@ -19,10 +19,10 @@ h1 {
 	margin: 15px;
 	padding-bottom: 10px;
 	font-family: 'Holtwood One SC', serif;
-	background-color: #fff000;
-  background-color: #4062bb; background-image: linear-gradient(316deg, #4062bb 0%, #5200ae 74%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+	background-color: #045de9;
+        background-image: linear-gradient(315deg, #045de9 0%, #09c6f9 74%);
+        -webkit-background-clip: text;
+         -webkit-text-fill-color: transparent;
     
 
 }
